@@ -1,3 +1,0 @@
-C:/Users/minsa/Desktop/itmo_all/cmake-build-debug/CMakeFiles/itmo_all.dir
-C:/Users/minsa/Desktop/itmo_all/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/minsa/Desktop/itmo_all/cmake-build-debug/CMakeFiles/rebuild_cache.dir
