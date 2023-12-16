@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(itmo_all livecoding.cpp
         lab_5.cpp
-        lab_5.1.cpp)
+        lab_5.1.cpp
+        lab_3.cpp)

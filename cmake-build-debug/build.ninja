@@ -67,6 +67,12 @@ build CMakeFiles/itmo_all.dir/lab_5.1.cpp.obj: CXX_COMPILER__itmo_all_unscanned_
   OBJECT_DIR = CMakeFiles\itmo_all.dir
   OBJECT_FILE_DIR = CMakeFiles\itmo_all.dir
 
+build CMakeFiles/itmo_all.dir/lab_3.cpp.obj: CXX_COMPILER__itmo_all_unscanned_Debug C$:/Users/minsa/Desktop/itmo_all/lab_3.cpp || cmake_object_order_depends_target_itmo_all
+  DEP_FILE = CMakeFiles\itmo_all.dir\lab_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\itmo_all.dir
+  OBJECT_FILE_DIR = CMakeFiles\itmo_all.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target itmo_all
@@ -75,7 +81,7 @@ build CMakeFiles/itmo_all.dir/lab_5.1.cpp.obj: CXX_COMPILER__itmo_all_unscanned_
 #############################################
 # Link the executable itmo_all.exe
 
-build itmo_all.exe: CXX_EXECUTABLE_LINKER__itmo_all_Debug CMakeFiles/itmo_all.dir/livecoding.cpp.obj CMakeFiles/itmo_all.dir/lab_5.cpp.obj CMakeFiles/itmo_all.dir/lab_5.1.cpp.obj
+build itmo_all.exe: CXX_EXECUTABLE_LINKER__itmo_all_Debug CMakeFiles/itmo_all.dir/livecoding.cpp.obj CMakeFiles/itmo_all.dir/lab_5.cpp.obj CMakeFiles/itmo_all.dir/lab_5.1.cpp.obj CMakeFiles/itmo_all.dir/lab_3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\itmo_all.dir
